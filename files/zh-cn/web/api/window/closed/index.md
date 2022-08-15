@@ -11,7 +11,7 @@ slug: Web/API/Window/closed
 ## 语法
 
 ```plain
-isClosed = windowRef.closed;
+isClosed = window.closed;
 ```
 
 - `isClosed`
